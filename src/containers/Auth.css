@@ -1,0 +1,19 @@
+.auth-bg {
+  background-image: linear-gradient(to right, #43cea2, #185a9d);
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* .login-background {
+  background-image: url('../../../assets/images/bg/background.jpg');
+} */
+
+.ant-menu-inline.ant-menu-root .ant-menu-item > .ant-menu-title-content {
+  overflow: visible !important;
+}

@@ -1,0 +1,10 @@
+.card-text {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.card-overflow {
+  flex: 1;
+  min-height: calc(100vh - 250px);
+  overflow: hidden;
+}

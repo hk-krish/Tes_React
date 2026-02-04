@@ -1,0 +1,7 @@
+.select-checkbox .ant-select {
+  width: 95%;
+}
+.select-checkbox .ant-checkbox-wrapper {
+  width: 5%;
+  padding-left: 10px;
+}

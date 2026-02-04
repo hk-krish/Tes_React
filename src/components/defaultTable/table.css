@@ -1,0 +1,54 @@
+.table-rows tr td {
+  padding: 5px 16px;
+}
+
+.gx-main-content-wrapper {
+  padding: 32px 24px 0px 0px;
+}
+/* .gx-main-content-wrapper{
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+  } */
+
+.ant-picker {
+  height: 38px !important;
+  padding: 8px 10px 8px !important;
+}
+.ant-typography {
+  word-break: normal;
+}
+.ant-collapse-content > .ant-collapse-content-box {
+  padding-left: 0px;
+  padding-right: 14px;
+  padding-top: 16px;
+  padding-bottom: 16px;
+}
+.download-excel-button {
+  display: flex;
+  align-items: center;
+  padding: 0px;
+  margin: 0px;
+  border: none;
+}
+.table-header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  font-size: 12px;
+  align-items: center;
+  padding-left: 8px;
+}
+
+.row-lime-green {
+  background-color: #c9f2bd;
+}
+
+.row-light-red {
+  background-color: #f59f9f ;
+}
+
+.ant-table-tbody > tr:hover > td {
+  background-color: inherit !important;
+}

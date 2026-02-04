@@ -1,0 +1,5 @@
+@media screen and (max-width: 1366px) {
+  .ant-layout-sider {
+    width: 250px !important;
+  }
+}

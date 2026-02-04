@@ -1,0 +1,12 @@
+.transaction-container {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+/* Media Query for Small Screens (One Below the Other) */
+@media (max-width: 992px) {
+  .transaction-container {
+    flex-direction: column;
+  }
+}

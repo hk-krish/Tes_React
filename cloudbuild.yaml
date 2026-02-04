@@ -1,0 +1,3 @@
+steps:
+- name: gcr.io/cloud-builders/gcloud
+  args: ['compute', 'ssh', 'tes', '--zone', 'europe-west4-a', '--command', 'bash -v /home/amit8439941788/UAT-ENVIRONMENT/admin.sh']
